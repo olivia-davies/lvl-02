@@ -43,7 +43,7 @@
 		},
 	"\/js\/jquery.js": {
 		"ft": 64,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "\/build\/js\/jquery.js",
 		"oF": 0,
@@ -52,7 +52,7 @@
 		},
 	"\/js\/scripts.js": {
 		"ft": 64,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "\/build\/js\/scripts.js",
 		"oF": 0,
@@ -69,7 +69,7 @@
 	"displayValue": "lvl-02",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-dunnoGirl",
-	"lastBuiltDate": 514688088
+	"lastBuiltDate": 515460797
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -1843,7 +1843,7 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
-		"minifyOutput": 1,
+		"minifyOutput": 0,
 		"syntaxCheckerStyle": 0,
 		"transpilerStyle": 0
 		},
