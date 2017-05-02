@@ -9,12 +9,6 @@
 	],
 "creatorBuild": "25813",
 "files": {
-	"\/build": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/build\/build",
-		"oF": 0
-		},
 	"\/css\/styles.css": {
 		"aP": 1,
 		"bl": 0,
@@ -69,7 +63,7 @@
 	"displayValue": "lvl-02",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-dunnoGirl",
-	"lastBuiltDate": 515460797
+	"lastBuiltDate": 515460895
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
